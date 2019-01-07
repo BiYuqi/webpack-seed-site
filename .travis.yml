@@ -6,7 +6,7 @@ cache:
     - node_modules
 
 before_install:
-  - export TZ='Asia/Beijing' # 更改时区
+  - export TZ='Asia/Beijing'
 
 install:
   - npm install
