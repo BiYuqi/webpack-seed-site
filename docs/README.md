@@ -1,6 +1,6 @@
 ---
 home: true
-# heroImage: 
+heroImage: /assets/logo.png
 heroText: webpack-seed
 tagline: 基于webpack4.x, babel7.x 搭建的多页面脚手架, 简化前端开发环境配置
 actionText: 敬请期待 →
